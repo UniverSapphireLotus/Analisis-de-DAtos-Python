@@ -1,0 +1,60 @@
+Nombre,Tipo,Precio,IdProducto
+Puca Picante con Chicharrón,Plato Típico,10,1
+Puca Picantecon 1/4 de Cuy ,Plato Típico,15,2
+Puca Picante con 1/2 de Cuy ,Plato Típico,25,3
+Puca Picante con Trucha ,Plato Típico,25,4
+Puca Picante con Caja China ,Plato Típico,15,5
+Cuy Chactado Entero ,Plato Típico,50,6
+Cuy Chactado 1/2 ,Plato Típico,25,7
+Củy Chactado 1/4,Plato Típico,13,8
+Chịcharron de Cerdo,Plato Típico,15,9
+Qapchi,Plato Típico,10,10
+Trucha Frita,Plato Típico,15,11
+Chicharrón de Trucha ,Plato Típico,20,12
+Chịcharrón de Pollo ,Plato Típico,20,13
+Sudado de Trucha,Plato Típico,20,14
+Chicharrón de Pescado ,Plato Típico,20,15
+Trucha a la Plancha ,Plato Típico,20,16
+Chilcano de Trucha,Plato Típico,15,17
+Parrilla de Pollo,Plato Típico,20,18
+Parrilla de Trucha,Plato Típico,20,19
+Milanesa de Pollo,Plato Típico,20,20
+Milanesa de Trucha,Plato Típico,20,21
+Mondongo,Sabados Y Domingos,10,22
+Caldo de Gallina,Sabados Y Domingos,12,23
+Caldo de Cordero,Sabados Y Domingos,8,24
+Caldo de Cuy,Sabados Y Domingos,5,25
+Caldo de Cuy 1/4,Sabados Y Domingos,12,26
+Rocoto Relleno,Sabados Y Domingos,15,27
+Trucha Frita + Rocoto relleno,Sabados Y Domingos,25,28
+Chancho a la caja china,Caja China,25,29
+Chancho + rocoto relleno,Caja China,30,30
+Pollo a la caja china l/4,Caja China,25,31
+Pollo + rocoto relleno,Caja China,30,32
+Cuy ala caja china l/2,Caja China,30,33
+Cuy 1/2 + rocoto relleno ,Caja China,35,34
+Bagre a la caja china,Caja China,30,35
+Caja china Mixta,Caja China,40,36
+Frozen de Piña,Limonadas de Frutas,10,37
+Frozen de Mango,Limonadas de Frutas,10,38
+Frozen de Fresa,Limonadas de Frutas,10,39
+Frozen de Maracuyá,Limonadas de Frutas,10,40
+Limonada Arabe,Bebidas,8,41
+Limonada Frozen,Bebidas,8,42
+Limonada Americana,Bebidas,8,43
+Chicha Morada,Bebidas,8,44
+Chicha de Jora,Bebidas,8,45
+Chicha de Cebada,Bebidas,8,46
+Cerveza Cusqueña negra,Cervezas,8,47
+Cerveza Cusqueña Trigo,Cervezas,8,48
+Cerveza Golden,Cervezas,5,49
+Cerveza Pilsen 630 ml,Cervezas,7,50
+Cerveza Cristal 650 ml,Cervezas,6,51
+Gaseosa Inka Kola 1 L,Gaseosas,7,52
+Gaseosa Inka Kola 2 L,Gaseosas,12,53
+Gaseosa Inka Kola 3 L,Gaseosas,16,54
+Gaseosa Inka Kola personal,Gaseosas,3,55
+Gaseosa Coca Kola 1 L,Gaseosas,7,56
+Gaseosa Coca Kola 3 L,Gaseosas,16,57
+Gaseosa Coca Kola personal,Gaseosas,3,58
+Agua,Agua,2,59

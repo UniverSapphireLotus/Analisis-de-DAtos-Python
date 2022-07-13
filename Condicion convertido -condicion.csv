@@ -1,0 +1,26 @@
+Condicion,valor_Condicion
+Fair,1
+Mist,2
+Patches of Fog,3
+Fog,4
+Partly Cloudy,5
+Mostly Cloudy,6
+Mostly Cloudy / Windy,7
+Cloudy,8
+Showers in the Vicinity,9
+Squalls,10
+Light Drizzle,11
+Drizzle,12
+Light Rain,13
+Rain,14
+Rain Shower,15
+Light Rain Shower,16
+Heavy Rain,17
+Thunder in the Vicinity,18
+Thunder,19
+Thunder / Windy,20
+Light Rain with Thunder,21
+T-Storm,22
+T-Storm / Windy,23
+Heavy T-Storm,24
+Heavy T-Storm / Windy,25
